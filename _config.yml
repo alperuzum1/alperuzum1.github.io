@@ -28,7 +28,8 @@ github_username:  alperuzum1
 author: Alper Üzüm
 title-logo: /images/logo.png
 # Build settings
-theme: minima
+# minia set as regular theme
+#theme: minima
 plugins:
   - jekyll-feed
 
