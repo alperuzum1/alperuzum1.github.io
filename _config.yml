@@ -26,7 +26,7 @@ url: "https://alperuzum1.github.io/" # the base hostname & protocol for your sit
 github_username:  alperuzum1
 
 author: Alper Üzüm
-
+title-logo: /images/logo.png
 # Build settings
 theme: minima
 plugins:
